@@ -5,6 +5,10 @@ settings.py
 config
 config.py
 
+# delimiter-separated data
+*.csv
+*.tsv
+
 # node_modules / blogify
 node_modules
 

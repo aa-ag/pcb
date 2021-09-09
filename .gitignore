@@ -8,6 +8,7 @@ config.py
 # delimiter-separated data
 *.csv
 *.tsv
+*.crdownload
 
 # node_modules / blogify
 node_modules
